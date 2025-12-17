@@ -15,4 +15,5 @@ pip install -r requirements.txt
 python src/main.py --config config/targets.json
 
 ## Website
-https://pricescope-crypto-tracker.lovable.app
+[Live demo](https://pricescope-crypto-tracker.lovable.app)
+
