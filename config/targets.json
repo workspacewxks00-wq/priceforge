@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Example Competitor",
+    "url": "https://example.com",
+    "price_selector": "h1",
+    "currency": "USD"
+  }
+]

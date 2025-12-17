@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Sample Shop",
+    "url": "https://example.com/product",
+    "price_selector": ".price",
+    "currency": "USD"
+  }
+]
